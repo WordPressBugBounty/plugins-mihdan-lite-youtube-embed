@@ -7,11 +7,11 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
-    'Mihdan\\LiteYouTubeEmbed\\Elementor' => $baseDir . '/src/Elementor.php',
     'Mihdan\\LiteYouTubeEmbed\\Main' => $baseDir . '/src/Main.php',
     'Mihdan\\LiteYouTubeEmbed\\Options' => $baseDir . '/src/Options.php',
     'Mihdan\\LiteYouTubeEmbed\\Provider' => $baseDir . '/src/Provider.php',
     'Mihdan\\LiteYouTubeEmbed\\Providers\\RuTube' => $baseDir . '/src/Providers/RuTube.php',
+    'Mihdan\\LiteYouTubeEmbed\\Providers\\VK' => $baseDir . '/src/Providers/VK.php',
     'Mihdan\\LiteYouTubeEmbed\\Providers\\YouTube' => $baseDir . '/src/Providers/YouTube.php',
     'Mihdan\\LiteYouTubeEmbed\\Settings' => $baseDir . '/src/Settings.php',
     'Mihdan\\LiteYouTubeEmbed\\ThirdParty\\CreativeMotionClearfy' => $baseDir . '/src/ThirdParty/CreativeMotionClearfy.php',
