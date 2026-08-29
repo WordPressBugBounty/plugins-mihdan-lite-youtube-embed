@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'mihdan/lite-youtube-embed',
-        'pretty_version' => '1.9.1.1',
-        'version' => '1.9.1.1',
-        'reference' => 'df14db231ccc99a0c9c5819db33a3b582c65f048',
+        'pretty_version' => '1.9.2',
+        'version' => '1.9.2.0',
+        'reference' => '2c4850fef08707158a8b70f4fc44d9418ab9168b',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'mihdan/lite-youtube-embed' => array(
-            'pretty_version' => '1.9.1.1',
-            'version' => '1.9.1.1',
-            'reference' => 'df14db231ccc99a0c9c5819db33a3b582c65f048',
+            'pretty_version' => '1.9.2',
+            'version' => '1.9.2.0',
+            'reference' => '2c4850fef08707158a8b70f4fc44d9418ab9168b',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
